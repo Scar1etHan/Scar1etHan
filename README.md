@@ -5,4 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1etHan)](https://github.com/Scar1etHan/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={wngks8086})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={wngks8086})](https://solved.ac/{wngks8086})
