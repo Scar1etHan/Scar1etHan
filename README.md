@@ -3,7 +3,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Scar1etHan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1etHan)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1etHan)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngks8086)](https://solved.ac/wngks8086)
